@@ -2,8 +2,5 @@
 2
 3
 4
-<<<<<<< HEAD
-=======
 5
 6
->>>>>>> 3c29e84 (edited third_file.txt)
