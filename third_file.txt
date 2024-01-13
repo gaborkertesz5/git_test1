@@ -1,9 +1,7 @@
-peti
 0
 1
 2
 3
 4
-FIVE
+FIVE_
 6
-peti
